@@ -1,4 +1,4 @@
-# X-Preset
+# X-Preset-Simple
 
 Vue Cli preset 
 
@@ -6,14 +6,11 @@ Vue Cli preset
 
 ## 使用
 ```
-vue create --preset oxoyo/X-Preset my-project
+vue create --preset oxoyo/X-Preset-Simple my-project
 ```
 
 ## 功能
 
 * babel：支持
-* pwa：支持
 * eslint：standard标准，保存时校验
-* vue-router：支持，history模式
-* vuex：支持
 * less：支持
